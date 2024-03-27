@@ -16,7 +16,7 @@ function Hero() {
         <div className=" text-center mt-4 sm:mt-10">
           <h1 className="text-center text-[#000] text-4xl  sm:text-8xl font-potta  pb-2 txt-s">
             {" "}
-            garbage-sol
+            maru inu
           </h1>
           <p className=" font-potta text-lg sm:text-4xl mt-2">
             Never underestimate the value of useless shit garbage!
@@ -34,10 +34,10 @@ function Hero() {
             <p className=" text-center text-xl font-semibold">Contract : e8gngLfUoWBYFd3hygUZh2j7wia6VwrMffTcHPvJwdK</p>
           </div>
         </div>
-        <div className="hidden sm:flex justify-between items-center mt-0 sm:mt-5 ">
-          <img src="images/hero-img.png" alt="" className="h-full w-full" />
-          <img src="images/hero-img1.png" alt="" className="h-full w-full" />
-          <img src="images/hero-img2.png" alt="" className="h-full w-full" />
+        <div className="hidden sm:flex justify-center gap-8 items-center mt-0 sm:mt-5 ">
+          <img src="images/hero-img.png" alt="" className="h-[350px] w-auto" />
+          <img src="images/hero-img1.png" alt="" className="h-[350px] w-auto" />
+          <img src="images/hero-img2.png" alt="" className="h-[350px] w-auto" />
         </div>
         <div className="block lg:hidden sm:hidden">
           <Swiper

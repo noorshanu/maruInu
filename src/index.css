@@ -4,7 +4,7 @@
 
 @font-face {
   font-family: "potta";
-  src: url("/fonts/PottaOne.ttf");
+  src: url("/fonts/bewfont.ttf");
 }
 
 .lh-1 {
@@ -49,7 +49,7 @@
   }
 
   .container-wrapper {
-    @apply max-w-[1324px] w-[100%] mx-auto;
+    @apply max-w-[1324px] w-[90%] mx-auto;
   }
 }
 

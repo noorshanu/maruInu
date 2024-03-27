@@ -12,14 +12,20 @@ function Navbar() {
   return (
     <>
       <nav className="z-[100] bg-black  ">
-        <div className="container-wrapper border-none sm:border-2 border-[#fff] bg-black h-14 lg:h-16 2xl:h-20 rounded-2xl flex justify-between lg:justify-normal lg:grid lg:grid-cols-[1fr_16rem_1fr] gap-8 items-center">
+        <div className="container-wrapper border-none sm:border-2 border-[#fff] bg-black h-14 lg:h-20 rounded-2xl flex justify-between lg:justify-normal lg:grid lg:grid-cols-[1fr_16rem_1fr] gap-8 items-center">
           <div className="items-center justify-between text-base font-medium text-white flex px-4 w-full sm:w-auto  sm:px-0 lg:flex">
           
-              <img
-                src="/images/logo.png"
-                className="h-[40px] sm:h-auto w-auto "
+       <div className=" flex gap-4 items-center">
+       <img
+                src="/images/hero-img.png"
+                className="h-[40px] sm:h-[70px] w-auto "
                 alt=""
               />
+               <h1 className="text-center text-[#fff] text-base  sm:text-lg font-potta  pb-2 txt-s">
+            {" "}
+            maru inu
+          </h1>
+       </div>
          
          <button
             className="text-2xl text-white flex lg:hidden"
