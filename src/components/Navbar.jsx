@@ -12,10 +12,10 @@ function Navbar() {
   return (
     <>
       <nav className="z-[100] nav-bg  ">
-        <div className="container-wrapper border-none sm:border-2 border-[#fff]  h-14 lg:h-20 rounded-2xl flex justify-between lg:justify-normal lg:grid lg:grid-cols-[1fr_16rem_1fr] gap-8 items-center">
+        <div className="container-wrapper border-none sm:border-2 border-[#fff]  h-14 lg:h-20 rounded-2xl flex justify-between lg:justify-normal lg:grid lg:grid-cols-[1fr_20rem_1fr] gap-8 items-center">
           <div className="items-center justify-between text-base font-medium text-white flex px-4 w-full sm:w-auto  sm:px-0 lg:flex">
           
-       <div className=" flex gap-4 items-center">
+       <div className=" flex gap-2 items-center">
        <img
                 src="/images/fav.png"
                 className="h-[40px] sm:h-[70px] w-auto "
@@ -37,7 +37,7 @@ function Navbar() {
 
         
 
-          <div className="items-center justify-evenly text-base font-medium text-white hidden lg:flex">
+          <div className="items-center justify-between  text-base font-medium text-white hidden lg:flex gap-4 w-full">
             <Link
               to="/"
               onClick={() => setSidebarOpen(false)}
@@ -50,14 +50,32 @@ function Navbar() {
              
               className="cursor-pointer text-sm xl:text-base"
             >
-              Buy Now
+              About
             </a>
             <Link
               to="roadmap"
               onClick={() => setSidebarOpen(false)}
               className="cursor-pointer text-sm xl:text-base"
             >
-              Story
+            Roadmap
+            </Link>
+
+       
+
+            <Link
+              to="roadmap"
+              onClick={() => setSidebarOpen(false)}
+              className="cursor-pointer text-sm xl:text-base"
+            >
+          FAQs
+            </Link>
+
+            <Link
+              to="roadmap"
+              onClick={() => setSidebarOpen(false)}
+              className="cursor-pointer text-sm xl:text-base"
+            >
+          Vote
             </Link>
           </div>
         </div>
