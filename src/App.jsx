@@ -5,6 +5,8 @@ import Hero from "sections/Hero";
 import JoinCommunity from "sections/JoinCommunity";
 
 import Roadmap from "sections/Roadmap";
+import Pool from "sections/Pool";
+import Disclaim from "sections/Disclaim";
 
 
 function App() {
@@ -24,6 +26,14 @@ function App() {
         </div>
         <div id="roadmap">
           <Roadmap />
+        </div>
+
+        <div id="roadmap">
+          <Pool/>
+        </div>
+
+        <div id="roadmap">
+          <Disclaim/>
         </div>
       </main>
 

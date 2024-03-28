@@ -1,7 +1,7 @@
 function Title({ children, className }) {
   return (
     <h1
-      className={` font-potta uppercase ${className}`}
+      className={`  uppercase ${className}`}
     >
       {children}
     </h1>

@@ -4,8 +4,14 @@
 
 @font-face {
   font-family: "potta";
-  src: url("/fonts/bewfont.ttf");
+  src: url("/fonts/knew.ttf");
 }
+
+@font-face {
+  font-family: "inter";
+  src: url("/fonts/inter.ttf");
+}
+
 
 .lh-1 {
   line-height: 1 !important;
@@ -45,7 +51,7 @@
 
   html,
   body {
-    @apply bg-[#FFE600] text-black overflow-x-hidden;
+    @apply bg-[#ffffff] text-black overflow-x-hidden;
   }
 
   .container-wrapper {
@@ -94,8 +100,35 @@
   align-items: center;
 margin: auto;
 }
+.nav-bg{
+  background: linear-gradient(167.26deg, #0066FF 9.22%, #3A89FF 90.78%);
 
+}
 
+.bg-hero{
+  background: linear-gradient(180deg, #FAE949 0%, #FFD79A 100%);
+
+}
+
+.bg-about{
+  background: linear-gradient(90deg, #7BB0FF 0%, #207AFF 100%);
+
+}
+
+.bg-story{
+  background: linear-gradient(180deg, rgba(251, 232, 76, 0.7) 0%, rgba(255, 185, 72, 0.81) 100%);
+
+}
+
+.btn-1{
+  background: linear-gradient(90deg, #0295FF 0%, #015999 100%);
+
+}
+
+.btn-2{
+  background: linear-gradient(90deg, #000000 0%, #4E4C1B 100%);
+
+}
 /* KEYFRAMES */
 
 

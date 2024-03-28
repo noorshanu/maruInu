@@ -7,6 +7,7 @@ export default {
       potta: "potta",
       popins: "'Poppins', sans-serif",
       daughter: "'Architects Daughter', cursive",
+      inter:"inter",
     },
     colors: {
       white: "white",

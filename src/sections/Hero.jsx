@@ -11,22 +11,22 @@ import { Autoplay, Pagination } from "swiper/modules";
 
 function Hero() {
   return (
-    <section className="relative z-10 overflow-hidden bg-[#FFE600]">
+    <section className="relative z-10 overflow-hidden bg-hero mt-4">
       <div className="container-wrapper lg:h-[100vh]  pt-2 pb-0 lg:pt-0 lg:pb-0 lg:drop-shadow-[0_0_10rem_white]">
         <div className=" text-center mt-4 sm:mt-10">
-          <h1 className="text-center text-[#000] text-4xl  sm:text-8xl font-potta  pb-2 txt-s">
+          <h1 className="text-center text-[#000] text-4xl  sm:text-8xl font-potta  pb-2 txt-s uppercase">
             {" "}
-            maru inu
+            Maru inu
           </h1>
-          <p className=" font-potta text-lg sm:text-4xl mt-2">
-            Never underestimate the value of useless shit garbage!
+          <p className=" font-inter font-normal text-lg sm:text-4xl mt-2">
+          THE MINER HOLDING ALL BTC
           </p>
 
           <div className=" mt-4 flex flex-col sm:flex-row items-center gap-4 justify-center">
-            <a href="https://solscan.io/token/e8gngLfUoWBYFd3hygUZh2j7wia6VwrMffTcHPvJwdK" target="_blank" className=" bg-[#f79a2b] hover:bg-black  text-black hover:text-white font-potta text-xl sm:text-3xl rounded-lg px-14 pt-2 pb-3 ">
+            <a href="https://solscan.io/token/e8gngLfUoWBYFd3hygUZh2j7wia6VwrMffTcHPvJwdK" target="_blank" className=" btn-2 hover:bg-black  text-white hover:text-white font-inter text-xl sm:text-3xl rounded-lg px-14 pt-2 pb-3 ">
               Contract 
             </a>
-            <a href="https://www.dextools.io/app/en/solana/pair-explorer/6fHv7mnqXs6Vwyd9tdbsctj21xXsZdMpx6xVguzBaFHd?t=1709292217441" target="_blank" className=" bg-[#f79a2b] hover:bg-black  text-black hover:text-white font-potta text-xl sm:text-3xl rounded-lg px-14 pt-2 pb-3 ">
+            <a href="https://www.dextools.io/app/en/solana/pair-explorer/6fHv7mnqXs6Vwyd9tdbsctj21xXsZdMpx6xVguzBaFHd?t=1709292217441" target="_blank" className=" btn-1 hover:bg-black  text-white hover:text-white font-inter text-xl sm:text-3xl rounded-lg px-14 pt-2 pb-3 ">
               Buy Now
             </a>
           </div>
