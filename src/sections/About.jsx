@@ -7,11 +7,11 @@ function About() {
         <div>
           <h1 className=" txt-s font-inter text-white font-bold text-2xl sm:text-[45px]">ABOUT MARU INU</h1>
           <p className=" font-inter text-center text-lg sm:text-[30px] font-normal max-w-5xl mx-auto lh-1_8 pt-6 text-white">
-            Once upon a crypto-calamity, <br /> a man (james Howells) nonchalantly
-            tossed <br /> 16,000 Bitcoins into the garbage, deeming them worthless.
-            Little did he know, his trash became a treasure as those discarded
-            Bitcoins now sparkle with a value in the millions. Moral of the
-            story: Never underestimate the magic of crypto dust!
+          Once upon a crypto-calamity, a man (james Howells) nonchalantly tossed
+16,000 Bitcoins into the garbage, deeming them worthless. Little did he
+know, his trash became a treasure as those discarded Bitcoins now
+sparkle with a value in the millions. Moral of the story: Never
+underestimate the magic of crypto dust!
           </p>
         </div>
       </div>
