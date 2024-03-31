@@ -8,6 +8,7 @@ import Roadmap from "sections/Roadmap";
 import Pool from "sections/Pool";
 import Disclaim from "sections/Disclaim";
 import Token from "sections/Token";
+import Roadmapv from "sections/Roadmapv";
 
 
 function App() {
@@ -25,7 +26,7 @@ function App() {
         <div className="" id="about">
           <About />
         </div>
-        <div id="roadmap">
+        <div id="story">
           <Roadmap />
         </div>
 
@@ -34,6 +35,11 @@ function App() {
         </div>
         <div id="token">
           <Token/>
+        </div>
+
+        <div>
+
+          <Roadmapv/>
         </div>
         <div id="disclaimer">
           <Disclaim/>
