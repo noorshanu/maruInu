@@ -7,7 +7,7 @@ function Pool() {
             MARU MINING POOL
           </h1>
 
-          <div className=" flex justify-between gap-6 items-center py-6 ">
+          <div className=" flex flex-col sm:flex-row justify-between gap-6 items-center py-6 ">
 
             <div className=" p-2 border-2 rounded-2xl border-white ">
               <img src="images/img10.jpg" alt="" className=" h-[250px] mx-auto rounded-2xl"  />
