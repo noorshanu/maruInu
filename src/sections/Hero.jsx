@@ -23,21 +23,22 @@ function Hero() {
           </p>
 
           <div className=" mt-4 flex flex-col sm:flex-row items-center gap-4 justify-center">
-            <a href="https://solscan.io/token/e8gngLfUoWBYFd3hygUZh2j7wia6VwrMffTcHPvJwdK" target="_blank" className=" btn-2 hover:bg-black  text-white hover:text-white font-inter text-xl sm:text-3xl rounded-lg px-14 pt-2 pb-3 ">
+            <a href="https://bscscan.com/token/0x604c9d43e804f5d7e19e0f58e9352ee839cb8f2d" target="_blank" className=" btn-2 hover:bg-black  text-white hover:text-white font-inter text-xl sm:text-3xl rounded-lg px-14 pt-2 pb-3 ">
               Contract 
             </a>
-            <a href="https://www.dextools.io/app/en/solana/pair-explorer/6fHv7mnqXs6Vwyd9tdbsctj21xXsZdMpx6xVguzBaFHd?t=1709292217441" target="_blank" className=" btn-1 hover:bg-black  text-white hover:text-white font-inter text-xl sm:text-3xl rounded-lg px-14 pt-2 pb-3 ">
+            <a href="#" target="_blank" className=" btn-1 hover:bg-black  text-white hover:text-white font-inter text-xl sm:text-3xl rounded-lg px-14 pt-2 pb-3 ">
               Buy Now
             </a>
           </div>
           <div className=" py-4">
-            <p className=" text-center text-xl font-semibold">Contract : e8gngLfUoWBYFd3hygUZh2j7wia6VwrMffTcHPvJwdK</p>
+            <p className=" text-center text-xl font-semibold">Contract : 0x604c9d43e804f5d7e19e0f58e9352ee839cb8f2d</p>
           </div>
         </div>
-        <div className="hidden sm:flex justify-center gap-8 items-center mt-0 sm:mt-5 ">
-          <img src="images/hero-img.png" alt="" className="h-[350px] w-auto" />
-          <img src="images/hero-img1.png" alt="" className="h-[350px] w-auto" />
-          <img src="images/hero-img2.png" alt="" className="h-[350px] w-auto" />
+        <div className="hidden sm:flex justify-center  items-center mt-0 sm:mt-5 relative z-20 ">
+
+          <img src="images/hero-img1.png" alt="" className="h-[230px] w-auto absolute left-[20%] top-0" />
+          <img src="images/hero-img.png" alt="" className="h-[400px] w-auto" />
+          <img src="images/hero-img2.png" alt="" className="h-[230px] w-auto absolute right-[18%] top-0" />
         </div>
         <div className="block lg:hidden sm:hidden">
           <Swiper
