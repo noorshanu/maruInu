@@ -11,7 +11,6 @@ import Token from "sections/Token";
 import Roadmapv from "sections/Roadmapv";
 import Cta from "sections/Cta";
 
-
 function App() {
   return (
     <div className="flex flex-col">
@@ -32,20 +31,19 @@ function App() {
         </div>
 
         <div id="pool">
-          <Pool/>
+          <Pool />
         </div>
         <div id="token">
-          <Token/>
+          <Token />
         </div>
-<div>
-  <Cta/>
-</div>
         <div>
-
-          <Roadmapv/>
+          <Cta />
+        </div>
+        <div id="roadmap">
+          <Roadmapv />
         </div>
         <div id="disclaimer">
-          <Disclaim/>
+          <Disclaim />
         </div>
       </main>
 
