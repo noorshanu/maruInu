@@ -8,7 +8,7 @@ function Token() {
    
 
       <div className="container-wrapper mb-14">
-        <Title className="text-center text-[#000] mb-10 py-3 text-2xl sm:text-[45px] txt-s font-inter font-bold">MARU TOKERNOMY</Title>
+        <Title className="text-center text-[#000] mb-10 pt-8 text-2xl sm:text-[45px] txt-s font-inter font-bold">MARU TOKERNOMY</Title>
 
         {/* <img src="/images/roadmap.png" className="w-full" alt="" /> */}
 
