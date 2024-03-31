@@ -11,7 +11,7 @@ function JoinCommunity() {
       <div className="container-wrapper">
         
 <div className=" flex justify-center gap-5 pb-16">
-  <a href="https://t.me/garbagesol" target="_blank" className="  hover:bg-black  text-black hover:text-white bg-white rounded-full p-2 text-4xl "> <FaTelegramPlane /></a>
+  <a href="https://t.me/maruinu" target="_blank" className="  hover:bg-black  text-black hover:text-white bg-white rounded-full p-2 text-4xl "> <FaTelegramPlane /></a>
  
 
  
