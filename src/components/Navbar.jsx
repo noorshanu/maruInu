@@ -94,9 +94,9 @@ function Navbar() {
             >
               Home
             </Link>
-            <a href="#about" className="cursor-pointer text-sm xl:text-base">
+            <Link  onClick={() => setSidebarOpen(false)} to="about" className="cursor-pointer text-sm xl:text-base">
               About
-            </a>
+            </Link>
          
 
             <Link
