@@ -7,6 +7,7 @@ import JoinCommunity from "sections/JoinCommunity";
 import Roadmap from "sections/Roadmap";
 import Pool from "sections/Pool";
 import Disclaim from "sections/Disclaim";
+import Token from "sections/Token";
 
 
 function App() {
@@ -28,11 +29,13 @@ function App() {
           <Roadmap />
         </div>
 
-        <div id="roadmap">
+        <div id="pool">
           <Pool/>
         </div>
-
-        <div id="roadmap">
+        <div id="token">
+          <Token/>
+        </div>
+        <div id="disclaimer">
           <Disclaim/>
         </div>
       </main>
