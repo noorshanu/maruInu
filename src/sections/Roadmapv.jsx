@@ -13,7 +13,7 @@ function Roadmapv() {
         <div className="flex justify-center gap-2 flex-col sm:flex-row  sm:px-0 px-4 relative z-10">
             <img src="images/img6.webp" alt="" className=" absolute left-0 right-0 h-[400px] rounded-3xl mx-auto top-[10%]" />
           <div className=" relative z-40 w-[300px] mx-auto">
-            <div className=" bg-white rounded-3xl py-4 px-6">
+            <div className=" bg-white rounded-3xl py-4 px-6 shadow-2xl">
                 <h2 className=" uppercase text-2xl font-bold py-4 text-center">
                     PHASE 1
                 </h2>
@@ -41,7 +41,7 @@ function Roadmapv() {
           </div>
 
           <div className=" relative z-40 w-[300px] flex flex-col gap-4 mx-auto mt-4">
-            <div className=" bg-white rounded-3xl py-4 px-6">
+            <div className=" bg-white rounded-3xl py-4 px-6 shadow-2xl">
             <h2 className=" uppercase text-2xl font-bold py-4 text-center">
                     PHASE 2
                 </h2>
@@ -52,7 +52,7 @@ function Roadmapv() {
                  <p className=" text-lg uppercase py-1">maru mining launch</p>
             </div>
 
-            <div className=" bg-white rounded-3xl py-4 px-6 w-[300px] mx-auto">
+            <div className=" bg-white rounded-3xl py-4 px-6 w-[300px] mx-auto shadow-2xl">
             <h2 className=" uppercase text-2xl font-bold py-4 text-center">
                     PHASE 3
                 </h2>
