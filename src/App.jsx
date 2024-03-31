@@ -9,6 +9,7 @@ import Pool from "sections/Pool";
 import Disclaim from "sections/Disclaim";
 import Token from "sections/Token";
 import Roadmapv from "sections/Roadmapv";
+import Cta from "sections/Cta";
 
 
 function App() {
@@ -36,7 +37,9 @@ function App() {
         <div id="token">
           <Token/>
         </div>
-
+<div>
+  <Cta/>
+</div>
         <div>
 
           <Roadmapv/>
