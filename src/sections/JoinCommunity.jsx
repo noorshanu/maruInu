@@ -17,7 +17,7 @@ function JoinCommunity() {
  
   
  
-  <a href="https://twitter.com/GarbageSol" target="_blank" className=" hover:bg-black  text-black hover:text-white bg-white rounded-full p-2 text-4xl"><FaTwitter /></a>
+  <a href="https://twitter.com/MaruInu_1" target="_blank" className=" hover:bg-black  text-black hover:text-white bg-white rounded-full p-2 text-4xl"><FaTwitter /></a>
 
 </div>
       
