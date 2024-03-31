@@ -9,7 +9,7 @@ function Pool() {
 
           <div className=" flex flex-col sm:flex-row justify-between gap-6 items-center py-6 ">
 
-            <div className=" p-2 border-2 rounded-2xl border-white ">
+            <div className=" p-2 border-2 rounded-2xl border-white  shadow-xl">
               <img src="images/img10.jpg" alt="" className=" h-[250px] mx-auto rounded-2xl"  />
 
               <h2 className=" justify-center font-inter font-bold txt-s text-sm py-2 text-white">
@@ -18,7 +18,7 @@ function Pool() {
             </div>
 
         
-            <div className=" p-2 border-2 rounded-2xl border-white ">
+            <div className=" p-2 border-2 rounded-2xl border-white shadow-xl ">
               <img src="images/img9.webp" alt="" className=" h-[250px] mx-auto rounded-2xl"  />
 
               <h2 className=" justify-center font-inter font-bold txt-s text-sm py-2 text-white">
@@ -26,7 +26,7 @@ function Pool() {
               </h2>
             </div>
             
-            <div className=" p-2 border-2 rounded-2xl border-white ">
+            <div className=" p-2 border-2 rounded-2xl border-white shadow-xl ">
               <img src="images/img8.webp" alt="" className=" h-[250px] mx-auto rounded-2xl"  />
 
               <h2 className=" justify-center font-inter font-bold txt-s text-sm py-2 text-white">
@@ -34,7 +34,7 @@ function Pool() {
               </h2>
             </div>
             
-            <div className=" p-2 border-2 rounded-2xl border-white ">
+            <div className=" p-2 border-2 rounded-2xl border-white shadow-xl ">
               <img src="images/img7.webp" alt="" className=" h-[250px] mx-auto rounded-2xl"  />
 
               <h2 className=" justify-center font-inter font-bold txt-s text-sm py-2 text-white">
