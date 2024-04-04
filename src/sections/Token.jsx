@@ -5,7 +5,7 @@ import Title from "components/Title";
 function Token() {
   return (
     <section className="relative z-10 bg-story py-4">
-      <img src="images/asset1.webp" alt="" className=" absolute left-[-20%] h-[400px] top-0" />
+      <img src="images/asset1.webp" alt="" className=" absolute left-[-30%] h-[400px] top-0" />
       <img src="images/asset1.webp" alt="" className=" absolute right-[-20%] h-[400px] top-0" />
    
 
