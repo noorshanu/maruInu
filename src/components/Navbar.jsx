@@ -12,7 +12,7 @@ function Navbar() {
 
   return (
     <>
-      <nav className="z-[100] nav-bg  ">
+      <nav className="z-[100] nav-bgf bg-[#150b2a]  ">
         <div className="container-wrapper border-none sm:border-2 border-[#fff]  h-14 lg:h-20 rounded-2xl flex justify-between lg:justify-normal lg:grid lg:grid-cols-[1fr_20rem_1fr] gap-8 items-center">
           <div className="items-center justify-between text-base font-medium text-white flex px-4 w-full sm:w-auto  sm:px-0 lg:flex">
             <div className=" flex gap-2 items-center">
