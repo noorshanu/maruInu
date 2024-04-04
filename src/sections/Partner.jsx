@@ -8,7 +8,7 @@ function Partner() {
 
         <div className=" " >
             
-        <Title className="text-center text-[#000] mb-10 py-8 text-2xl sm:text-[45px] txt-s font-inter font-bold">Our Partners</Title>
+        <Title className="text-center text-[#fff] mb-10 py-8 text-2xl sm:text-[45px] txt-s font-inter font-bold">Our Partners</Title>
 
         </div>
         <div className=" grid grid-cols-2 sm:grid-cols-4 items-center gap-3  rounded-2xl py-2 px-6">
