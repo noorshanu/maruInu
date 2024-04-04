@@ -25,7 +25,9 @@ function JoinCommunity() {
             <FaTwitter />
           </a>
         </div>
-<p className="text-center font-bold text-white">© 2024 MEOWWIF • All Rights Reserved</p>
+        <p className="text-center font-bold text-white">
+          © 2024 MEOWWIF • All Rights Reserved
+        </p>
         <div className=" py-4">
           <img src="images/line.png" alt="" className=" mx-auto" />
         </div>

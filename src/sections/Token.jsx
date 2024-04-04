@@ -5,9 +5,10 @@ import Title from "components/Title";
 function Token() {
   return (
     <section className="relative z-10 bg-story py-4">
-      <img src="images/asset1.webp" alt="" className=" absolute left-[-25%] h-[120px] sm:h-[400px] top-0" />
-      <img src="images/asset1.webp" alt="" className=" absolute right-[-20%] h-[120px] sm:h-[400px] top-0" />
-      <img src="images/coin2.png" alt="" className=" absolute bottom-[1%] right-[6%] floating h-[120px] sm:h-auto" />
+      {/* <img src="images/asset1.webp" alt="" className=" absolute left-[-25%] h-[120px] sm:h-[400px] top-0" /> */}
+      <img src="images/asset1.webp" alt="" className=" absolute right-[-25%] h-[120px] sm:h-[350px] bottom-0 rotate-180" />
+      <img src="images/paw.png" alt="" className=" absolute right-0 left-[18%]  top-0" />
+      {/* <img src="images/coin2.png" alt="" className=" absolute bottom-[1%] right-[6%] floating h-[120px] sm:h-auto" /> */}
       <img src="images/coin1.png" alt="" className=" absolute bottom-0 left-[5%] floating h-[120px] sm:h-auto" />
    
 
@@ -16,8 +17,24 @@ function Token() {
 
         {/* <img src="/images/roadmap.png" className="w-full" alt="" /> */}
 
-        <div className="flex justify-between flex-col sm:flex-row gap-2 sm:px-0 px-4">
-        <img src="images/token.png" alt="" className=" mx-auto p-0 sm:p-4 h-auto  sm:h-[550px] sm:mx-auto" />
+        <div className="flex justify-between items-center flex-col sm:flex-row gap-2 sm:px-0 px-4 relative z-30">
+          <div className=" w-full">
+            <h1 className="text-2xl font-bold text-white py-4 text-center">How To Buy</h1>
+
+            <div>
+              <a href="/" className="howbuy justify-center">
+                <p className=" text-center font-bold text-xl text-white">BUY $SLOKI ON PINKSALE</p>
+              </a>
+              <a href="/" className="howbuy justify-center">
+                <p className=" text-center font-bold text-xl text-white">BUY $SLOKI ON PINKSALE</p>
+              </a>
+
+              <a href="/" className="howbuy justify-center">
+                <p className=" text-center font-bold text-xl text-white">BUY $SLOKI ON PINKSALE</p>
+              </a>
+            </div>
+          </div>
+        <img src="images/token2.png" alt="" className=" mx-auto p-0 sm:p-4 h-auto  sm:h-[500px] sm:mx-auto" />
 
         
         </div>
