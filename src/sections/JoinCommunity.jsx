@@ -5,7 +5,7 @@ import { FaTelegramPlane } from "react-icons/fa";
 
 function JoinCommunity() {
   return (
-    <section className="py-10 relative z-10 overflow-hidden bg-[#000] ">
+    <section className="py-10 relative z-10 overflow-hidden bg-[#150b2a] ">
       <div className="container-wrapper">
         <div className=" flex justify-center gap-5 pb-16">
           <a

@@ -117,12 +117,12 @@ margin: auto;
 }
 
 .bg-about{
-  background: linear-gradient(90deg, #7BB0FF 0%, #207AFF 100%);
+  background: #150b2a;
 
 }
 
 .bg-story{
-  background: linear-gradient(180deg, rgba(251, 232, 76, 0.7) 0%, rgba(255, 185, 72, 0.81) 100%);
+  background: #150b2a;
 
 }
 
