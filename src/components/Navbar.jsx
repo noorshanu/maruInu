@@ -1,7 +1,8 @@
 import { useState } from "react";
 import { IoClose, IoMenu } from "react-icons/io5";
 import { Link } from "react-scroll";
-
+import { FaTwitter } from "react-icons/fa";
+import { FaTelegramPlane } from "react-icons/fa";
 function Navbar() {
   const [sidebarOpen, setSidebarOpen] = useState(false);
 
@@ -69,6 +70,27 @@ function Navbar() {
             >
               Roadmap
             </Link>
+          </div>
+
+          <div>
+          <div className=" flex justify-center gap-5 ">
+          <a
+            href="https://t.me/Meowwif"
+            target="_blank"
+            className="  hover:bg-black  text-black hover:text-white bg-white rounded-full p-2 text-2xl "
+          >
+            {" "}
+            <FaTelegramPlane />
+          </a>
+
+          <a
+            href="https://x.com/meowwif"
+            target="_blank"
+            className=" hover:bg-black  text-black hover:text-white bg-white rounded-full p-2 text-2xl"
+          >
+            <FaTwitter />
+          </a>
+        </div>
           </div>
         </div>
       </nav>

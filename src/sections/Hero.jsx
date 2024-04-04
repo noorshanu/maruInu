@@ -11,7 +11,7 @@ import { Autoplay, Pagination } from "swiper/modules";
 
 function Hero() {
   return (
-    <section className="relative z-10 overflow-hidden bg-hero mt-4 ">
+    <section className="relative z-10 overflow-hidden bg-hero  ">
       <div className=" overlay pt-1 ">
       <div className="container-wrapper lg:h-[100vh]  pt-2 pb-0 lg:pt-0 lg:pb-0 ">
       <img src="images/star.png" alt="" className=" absolute left-[5%] top-[40%] floating" />
