@@ -14,15 +14,16 @@ function Roadmap() {
 
         <div className="flex justify-between flex-col sm:flex-row gap-2 sm:px-0 px-4">
         <img src="images/img1.webp" alt="" className="w-auto h-[300px] rounded-xl mt-0 sm:-mt-[5%] " />
-        <img src="images/img2.webp" alt="" className="w-auto h-[300px] rounded-xl" />
-        <img src="images/img3.webp" alt="" className="w-auto h-[300px] rounded-xl mt-0 sm:-mt-[5%] " />
+        <img src="images/img3.webp" alt="" className="w-auto h-[300px] rounded-xl" />
+        <img src="images/img5.webp" alt="" className="w-auto h-[300px] rounded-xl mt-0 sm:-mt-[5%] " />
 
         
         </div>
 
         <div className="flex justify-between flex-col sm:flex-row gap-5 mt-4 sm:mt-14 sm:px-0 px-4">
         <img src="images/img4.webp" alt="" className="w-auto h-[300px] rounded-xl mt-0 sm:mt-[5%]" />
-        <img src="images/img5.webp" alt="" className="w-auto h-[300px] rounded-xl" />
+       
+        <img src="images/img2.webp" alt="" className="w-auto h-[300px] rounded-xl" />
         <img src="images/img6.webp" alt="" className="w-auto h-[300px] rounded-xl mt-0  sm:mt-[5%]" />
 
         
