@@ -10,6 +10,7 @@ import Disclaim from "sections/Disclaim";
 import Token from "sections/Token";
 import Roadmapv from "sections/Roadmapv";
 import Cta from "sections/Cta";
+import Partner from "sections/Partner";
 
 function App() {
   return (
@@ -31,7 +32,8 @@ function App() {
         </div>
 
         <div id="pool">
-          <Pool />
+          {/* <Pool /> */}
+          <Partner/>
         </div>
         <div id="token">
           <Token />

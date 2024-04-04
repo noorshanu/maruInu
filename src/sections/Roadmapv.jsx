@@ -5,7 +5,7 @@ function Roadmapv() {
     <section className="relative z-10 bg-story py-4">
       <div className="container-wrapper mb-14">
         <Title className="text-center text-[#000] mb-10 pt-8 text-2xl sm:text-[45px] txt-s font-inter font-bold">
-          MARU ROADMAP
+          CATWIF ROADMAP
         </Title>
 
         {/* <img src="/images/roadmap.png" className="w-full" alt="" /> */}
