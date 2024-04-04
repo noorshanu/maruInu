@@ -25,9 +25,9 @@ function Roadmap() {
             <img
               src="images/img1.jpg"
               alt=""
-              className="w-auto h-[300px] rounded-xl "
+              className="w-auto h-[300px] rounded-xl mx-auto "
             />
-            <p className=" pt-1  font-bold max-w-sm text-white">
+            <p className=" pt-1  font-bold max-w-sm text-white text-center sm:text-start">
               2013 James Howell trashed Bitcoin, <br /> saw no worth
             </p>
           </div>
@@ -35,10 +35,10 @@ function Roadmap() {
             <img
               src="images/img1.webp"
               alt=""
-              className="w-auto h-[300px] rounded-xl"
+              className="w-auto h-[300px] rounded-xl mx-auto"
             />
 
-            <p className=" pt-1  font-bold max-w-sm text-white">
+            <p className=" pt-1  font-bold max-w-sm text-white text-center sm:text-start">
               MEOW WIF sniffs out gold in garbage.
             </p>
           </div>
@@ -46,10 +46,10 @@ function Roadmap() {
             <img
               src="images/img3.webp"
               alt=""
-              className="w-auto h-[300px] rounded-xl  "
+              className="w-auto h-[300px] rounded-xl mx-auto  "
             />
 
-            <p className=" pt-1  font-bold max-w-sm text-white">
+            <p className=" pt-1  font-bold max-w-sm text-white text-center sm:text-start">
               MEOW WIF starts mining, turns trash <br /> into treasure.
             </p>
           </div>
@@ -60,10 +60,10 @@ function Roadmap() {
             <img
               src="images/img5.webp"
               alt=""
-              className="w-auto h-[300px] rounded-xl "
+              className="w-auto h-[300px] rounded-xl  mx-auto"
             />
 
-            <p className=" pt-1  font-bold max-w-sm text-white">
+            <p className=" pt-1  font-bold max-w-sm text-white text-center sm:text-start">
               Makes millions from discarded <br /> Bitcoin, thanks to Bitcoin
               boom.
             </p>
@@ -72,9 +72,9 @@ function Roadmap() {
             <img
               src="images/bag.png"
               alt=""
-              className="w-auto h-[300px] rounded-xl bg-[#02a6cc] p-2"
+              className="w-auto h-[300px] rounded-xl bg-[#02a6cc] p-2 mx-auto"
             />
-            <p className=" pt-1  font-bold max-w-sm text-white">
+            <p className=" pt-1  font-bold max-w-sm text-white text-center sm:text-start">
               Bitcoin ETF hype and Halving buzz <br /> fuels MEOW WIF's fire.
             </p>
           </div>
@@ -82,10 +82,10 @@ function Roadmap() {
             <img
               src="images/img6.webp"
               alt=""
-              className="w-auto h-[300px] rounded-xl mt-0  sm:mt-[5%]"
+              className="w-auto h-[300px] rounded-xl mt-0  sm:mt-[5%] mx-auto"
             />
 
-            <p className=" pt-1  font-bold max-w-sm text-white text-center">
+            <p className=" pt-1  font-bold max-w-sm text-white text-center ">
               Top 20 riches await MEOW WIF
             </p>
           </div>
