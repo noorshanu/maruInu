@@ -3,6 +3,7 @@ import Title from "components/Title";
 function Roadmap() {
   return (
     <section className="relative z-10 bg-[#150b2a] py-8">
+       <img src="images/asset1.webp" alt="" className=" absolute right-[-20%] h-[400px] top-0" />
       <div className="container-wrapper mb-14">
         <Title className="text-center text-[#fff] mb-10 py-8 text-2xl sm:text-[45px] txt-s font-inter font-bold uppercase">
           Meow wif STORY
@@ -10,7 +11,7 @@ function Roadmap() {
 
         {/* <img src="/images/roadmap.png" className="w-full" alt="" /> */}
 
-        <div className="flex justify-between flex-col sm:flex-row gap-2 sm:px-0 px-4">
+        <div className="flex justify-between flex-col sm:flex-row gap-2 sm:px-0 px-4 relative z-30">
           <div className=" mt-0 sm:-mt-[5%]">
             <img
               src="images/img1.jpg"
