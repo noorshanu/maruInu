@@ -13,7 +13,7 @@ function Token() {
         {/* <img src="/images/roadmap.png" className="w-full" alt="" /> */}
 
         <div className="flex justify-between flex-col sm:flex-row gap-2 sm:px-0 px-4">
-        <img src="images/token.png" alt="" className=" mx-auto p-0 sm:p-4 -ml-4" />
+        <img src="images/token.png" alt="" className=" mx-auto p-0 sm:p-4 h-auto  sm:h-[550px] sm:mx-auto" />
 
         
         </div>

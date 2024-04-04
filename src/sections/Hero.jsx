@@ -26,7 +26,7 @@ function Hero() {
           </p>
 
           <div className=" mt-4 flex flex-col sm:flex-row items-center gap-4 justify-center">
-            <a href="https://bscscan.com/token/0x604c9d43e804f5d7e19e0f58e9352ee839cb8f2d" target="_blank" className=" btn-2 hover:bg-black  text-white hover:text-white font-inter text-xl sm:text-3xl rounded-lg px-14 pt-2 pb-3 ">
+            <a href="#" target="_blank" className=" btn-2 hover:bg-black  text-white hover:text-white font-inter text-xl sm:text-3xl rounded-lg px-14 pt-2 pb-3 ">
               Contract 
             </a>
             <a href="#" target="_blank" className=" btn-1 hover:bg-black  text-white hover:text-white font-inter text-xl sm:text-3xl rounded-lg px-14 pt-2 pb-3 ">
