@@ -106,8 +106,14 @@ margin: auto;
 }
 
 .bg-hero{
-  background: linear-gradient(180deg, #FAE949 0%, #FFD79A 100%);
 
+  background-image: url(/images/bg.jpeg);
+  background-position: center;
+  background-size: cover;
+
+}
+.overlay{
+  background-color: #00000089;
 }
 
 .bg-about{

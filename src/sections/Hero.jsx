@@ -11,18 +11,17 @@ import { Autoplay, Pagination } from "swiper/modules";
 
 function Hero() {
   return (
-    <section className="relative z-10 overflow-hidden bg-hero mt-4">
-   
-      <div className="container-wrapper lg:h-[100vh]  pt-2 pb-0 lg:pt-0 lg:pb-0 lg:drop-shadow-[0_0_10rem_white]">
+    <section className="relative z-10 overflow-hidden bg-hero mt-4 ">
+      <div className=" overlay pt-1 ">
+      <div className="container-wrapper lg:h-[100vh]  pt-2 pb-0 lg:pt-0 lg:pb-0 lg:drop-shadow-[0_0_11rem_white]">
       <img src="images/star.png" alt="" className=" absolute left-[5%] top-[40%] floating" />
       <img src="images/star2.png" alt="" className=" absolute right-[5%] top-[40%] floating" />
 
         <div className=" text-center mt-4 sm:mt-10">
-          <h1 className="text-center text-[#000] text-4xl  sm:text-8xl font-potta  pb-2 txt-s uppercase">
-            {" "}
+          <h1 className="text-center text-[#fff] text-4xl  sm:text-8xl font-potta  pb-2 txt-s uppercase">
            CATWIF
           </h1>
-          <p className=" font-inter font-normal text-lg sm:text-4xl mt-2">
+          <p className=" font-inter font-normal text-lg sm:text-4xl mt-2 text-white">
           THE MINER HOLDING ALL BTC
           </p>
 
@@ -35,7 +34,7 @@ function Hero() {
             </a>
           </div>
           <div className=" py-4">
-            <p className=" text-center text-xs sm:text-xl font-semibold">Contract : 0x604c9d43e804f5d7e19e0f58e9352ee839cb8f2d</p>
+            <p className=" text-center text-xs sm:text-xl font-semibold text-white text-s">Contract : 0x604c9d43e804f5d7e19e0f58e9352ee839cb8f2d</p>
           </div>
         </div>
         <div className="hidden sm:flex justify-center  items-center mt-0 sm:mt-5 relative z-20 ">
@@ -78,6 +77,7 @@ function Hero() {
             </SwiperSlide>
           </Swiper>
         </div>
+      </div>
       </div>
     </section>
   );
