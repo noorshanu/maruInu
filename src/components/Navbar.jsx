@@ -36,13 +36,7 @@ function Navbar() {
           </div>
 
           <div className="items-center justify-between  text-base font-medium text-white hidden lg:flex gap-4 w-full">
-            <Link
-              to="/"
-              onClick={() => setSidebarOpen(false)}
-              className="cursor-pointer text-sm xl:text-base"
-            >
-              Home
-            </Link>
+       
             <a href="#about" className="cursor-pointer text-sm xl:text-base">
               About
             </a>
