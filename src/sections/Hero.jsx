@@ -39,9 +39,9 @@ function Hero() {
         </div>
         <div className="hidden sm:flex justify-center  items-center mt-0 sm:mt-5 relative z-20 ">
 
-          <img src="images/hero-img1.png" alt="" className="h-[330px] w-auto absolute left-[10%] top-0" />
-          <img src="images/hero-img.png" alt="" className="h-[320px] w-auto" />
-          <img src="images/hero-img2.png" alt="" className="h-[300px] w-auto absolute right-[12%] top-0" />
+          <img src="images/hero-img1.png" alt="" className="h-[280px] w-auto absolute left-[10%] top-[9%]" />
+          <img src="images/hero-img.png" alt="" className="h-[370px] w-auto" />
+          <img src="images/hero-img2.png" alt="" className="h-[280px] w-auto absolute right-[12%] top-[9%]" />
         </div>
         <div className="block lg:hidden sm:hidden">
           <Swiper
