@@ -5,14 +5,14 @@ import Title from "components/Title";
 function Token() {
   return (
     <section className="relative z-10 bg-story py-4">
-      <img src="images/asset1.webp" alt="" className=" absolute left-[-25%] h-[400px] top-0" />
-      <img src="images/asset1.webp" alt="" className=" absolute right-[-20%] h-[400px] top-0" />
-      <img src="images/coin2.png" alt="" className=" absolute bottom-[1%] right-[6%] floating" />
-      <img src="images/coin1.png" alt="" className=" absolute bottom-0 left-[5%] floating" />
+      <img src="images/asset1.webp" alt="" className=" absolute left-[-25%] h-[120px] sm:h-[400px] top-0" />
+      <img src="images/asset1.webp" alt="" className=" absolute right-[-20%] h-[120px] sm:h-[400px] top-0" />
+      <img src="images/coin2.png" alt="" className=" absolute bottom-[1%] right-[6%] floating h-[120px] sm:h-auto" />
+      <img src="images/coin1.png" alt="" className=" absolute bottom-0 left-[5%] floating h-[120px] sm:h-auto" />
    
 
       <div className="container-wrapper mb-14">
-        <Title className="text-center text-[#fff] mb-10 pt-8 text-2xl sm:text-[45px] txt-s font-inter font-bold uppercase"> TOKERNOMY</Title>
+        <Title className="text-center text-[#fff] mb-10 pt-8 text-2xl sm:text-[45px] txt-s font-inter font-bold uppercase relative z-30"> TOKERNOMY</Title>
 
         {/* <img src="/images/roadmap.png" className="w-full" alt="" /> */}
 

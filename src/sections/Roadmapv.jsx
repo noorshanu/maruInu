@@ -3,10 +3,10 @@ import Title from "components/Title";
 function Roadmapv() {
   return (
     <section className="relative z-10 bg-story py-4">
-       <img src="images/asset1.webp" alt="" className=" absolute right-[-20%] h-[400px] top-0" />
-       <img src="images/asset1.webp" alt="" className=" absolute left-[-20%] h-[300px] bottom-0 rotate-180" />
+       <img src="images/asset1.webp" alt="" className=" absolute right-[-20%] h-[120px] sm:h-[400px] top-0" />
+       <img src="images/asset1.webp" alt="" className=" absolute left-[-20%] h-[120px] sm:h-[400px] bottom-0 rotate-180" />
       <div className="container-wrapper mb-14">
-        <Title className="text-center text-[#fff] mb-10 pt-8 text-2xl sm:text-[45px] txt-s font-inter font-bold">
+        <Title className="text-center text-[#fff] mb-10 pt-8 text-2xl sm:text-[45px] txt-s font-inter font-bold relative z-30">
         MEOW WIF
  ROADMAP
         </Title>

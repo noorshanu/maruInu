@@ -3,7 +3,7 @@ import Title from "components/Title";
 function Cta() {
   return (
     <section className=" relative  pt-8 pb-16">
-      <div className="container-wrapper text-center block relative z-10 bg-about rounded-3xl py-8">
+      <div className="container-wrapper text-center block relative z-10 bg-about rounded-3xl py-8 px-3">
         <div>
           <h1 className=" txt-s font-inter text-white font-bold text-2xl uppercase sm:text-[45px]">
             JOIN US Meow wif
