@@ -70,6 +70,13 @@ function Navbar() {
             >
               Roadmap
             </Link>
+            <Link
+              to="roadmap"
+              onClick={() => setSidebarOpen(false)}
+              className="cursor-pointer text-sm xl:text-base"
+            >
+            Whitepaper
+            </Link>
           </div>
 
           <div>
