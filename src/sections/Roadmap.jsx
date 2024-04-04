@@ -8,7 +8,7 @@ function Roadmap() {
    
 
       <div className="container-wrapper mb-14">
-        <Title className="text-center text-[#000] mb-10 py-8 text-2xl sm:text-[45px] txt-s font-inter font-bold">CatWif  STORY</Title>
+        <Title className="text-center text-[#000] mb-10 py-8 text-2xl sm:text-[45px] txt-s font-inter font-bold uppercase">Meow wif  STORY</Title>
 
         {/* <img src="/images/roadmap.png" className="w-full" alt="" /> */}
 

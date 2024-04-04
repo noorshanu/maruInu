@@ -19,7 +19,7 @@ function Hero() {
 
         <div className=" text-center mt-4 sm:mt-10">
           <h1 className="text-center text-[#fff] text-4xl  sm:text-8xl font-potta  pb-2 txt-s uppercase">
-           CATWIF
+          Meow wif
           </h1>
           <p className=" font-inter font-normal text-lg sm:text-4xl mt-2 text-white">
           THE MINER HOLDING ALL BTC
