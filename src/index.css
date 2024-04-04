@@ -183,3 +183,13 @@ margin: auto;
   border: 1px solid black;
   color: black;
 }
+
+@media (max-width:786px) {
+  .bg-hero{
+
+    background-image: url(/images/bgd.jpeg);
+    background-position: center;
+    background-size: cover;
+  
+  }  
+}
