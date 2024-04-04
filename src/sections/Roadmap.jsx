@@ -85,7 +85,7 @@ function Roadmap() {
               className="w-auto h-[300px] rounded-xl mt-0  sm:mt-[5%]"
             />
 
-            <p className=" pt-1  font-bold max-w-sm text-white">
+            <p className=" pt-1  font-bold max-w-sm text-white text-center">
               Top 20 riches await MEOW WIF
             </p>
           </div>

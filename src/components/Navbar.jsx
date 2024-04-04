@@ -55,7 +55,7 @@ function Navbar() {
               onClick={() => setSidebarOpen(false)}
               className="cursor-pointer text-sm xl:text-base"
             >
-              TOKERNOMY
+              Tokernomy
             </Link>
             <Link
               to="roadmap"
