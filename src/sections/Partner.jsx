@@ -24,11 +24,11 @@ function Partner() {
             <img src="part/img9.png" alt="" className=" w-[180px] h-auto " />
             <img src="part/img10.png" alt="" className=" w-[180px] h-auto " />
             <img src="part/img11.png" alt="" className=" w-[180px] h-auto " />
-            <img src="part/img12.png" alt="" className=" w-[180px] h-auto " />
+            <img src="part/img12.png" alt="" className=" w-[180px] h-auto invert" />
             <img src="part/raid.svg" alt="" className=" w-[180px] h-auto " />
-            <img src="part/img14.png" alt="" className=" w-[180px] h-auto " />
-            <img src="part/img15.png" alt="" className=" w-[180px] h-auto " />
-            <img src="part/img16.png" alt="" className=" w-[180px] h-auto " />
+            <img src="part/img14.png" alt="" className=" w-[180px] h-auto  invert" />
+            <img src="part/img15.png" alt="" className=" w-[180px] h-auto  invert" />
+            <img src="part/img16.png" alt="" className=" w-[180px] h-auto  invert" />
         </div>
       </div>
     </section>
