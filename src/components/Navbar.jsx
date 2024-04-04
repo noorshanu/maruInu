@@ -22,7 +22,7 @@ function Navbar() {
               />
               <h1 className="text-center text-[#fff] text-base  sm:text-lg font-potta  pb-2 txt-s uppercase">
                 {" "}
-                maru inu
+              CatWif
               </h1>
             </div>
 
