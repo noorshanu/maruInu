@@ -3,8 +3,9 @@ import Title from "components/Title";
 function About() {
   return (
     <section className=" relative  pt-8 pb-16">
-      <div className="container-wrapper text-center block relative z-10 bg-[#150b2a] rounded-3xl py-8">
-        <div>
+      <div className="container-wrapper relative">
+        <img src="images/btc.png" alt="" className=" block sm:absolute h-auto sm:h-[450px] left-[-1.5%]"/>
+        <div className="text-center block relative z-30 bg-[#150b2a] rounded-3xl py-8 max-w-4xl ml-auto px-4" >
           <h1 className=" txt-s font-inter text-white font-bold text-2xl sm:text-[45px] uppercase">
             ABOUT 
           </h1>
