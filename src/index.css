@@ -107,13 +107,13 @@ margin: auto;
 
 .bg-hero{
 
-  background-image: url(/images/bg.jpeg);
+  background-image: url(/images/bg.png);
   background-position: center;
   background-size: cover;
 
 }
 .overlay{
-  background-color: #000000a2;
+  
 }
 
 .bg-about{
