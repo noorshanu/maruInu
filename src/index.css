@@ -132,8 +132,7 @@ margin: auto;
 }
 
 .btn-2{
-background: #c766ef;
-border: 2px solid #ffffff ;
+  background: linear-gradient(90deg, #000000 0%, #7928d2 100%);
 
 }
 /* KEYFRAMES */
