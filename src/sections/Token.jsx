@@ -22,15 +22,15 @@ function Token() {
             <h1 className="text-2xl font-bold text-white py-4 text-center">How To Buy</h1>
 
             <div>
-              <a href="/" className="howbuy justify-center">
-                <p className=" text-center font-bold text-xl text-white">BUY $SLOKI ON PINKSALE</p>
+              <a href="https://phantom.app/" target="_blank" className="howbuy justify-center">
+                <p className=" text-center font-bold text-xl text-white">DOWNLOAD AND INSTALL PHANTOM</p>
               </a>
-              <a href="/" className="howbuy justify-center">
-                <p className=" text-center font-bold text-xl text-white">BUY $SLOKI ON PINKSALE</p>
+              <a href="#" className="howbuy justify-center">
+                <p className=" text-center font-bold text-xl text-white">PURCHASE SOME SOLANA</p>
               </a>
 
-              <a href="/" className="howbuy justify-center">
-                <p className=" text-center font-bold text-xl text-white">BUY $SLOKI ON PINKSALE</p>
+              <a href="#" className="howbuy justify-center">
+                <p className=" text-center font-bold text-xl text-white">BUY $MEOWWIF ON PINKSALE</p>
               </a>
             </div>
           </div>
