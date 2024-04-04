@@ -139,7 +139,7 @@ margin: auto;
 .stroke-2{
   /* Prefix required. Even Firefox only supports the -webkit- prefix */
   -webkit-text-stroke-width: 3px;
-  -webkit-text-stroke-color: #b16d06;
+  -webkit-text-stroke-color: #7928d2;
 }
 
 .stroke-1{
