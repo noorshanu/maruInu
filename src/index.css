@@ -136,7 +136,17 @@ margin: auto;
 
 }
 /* KEYFRAMES */
+.stroke-2{
+  /* Prefix required. Even Firefox only supports the -webkit- prefix */
+  -webkit-text-stroke-width: 3px;
+  -webkit-text-stroke-color: #b16d06;
+}
 
+.stroke-1{
+  /* Prefix required. Even Firefox only supports the -webkit- prefix */
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: #000000;
+}
 
 
 /* ANIMATIONS */

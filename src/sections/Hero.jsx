@@ -18,7 +18,7 @@ function Hero() {
       <img src="images/star2.png" alt="" className=" absolute right-[5%] top-[40%] floating" />
 
         <div className=" text-center mt-4 sm:mt-10">
-          <h1 className="text-center text-[#fff] text-4xl  sm:text-8xl font-potta  pb-2 txt-s uppercase">
+          <h1 className="text-center text-[#fff] text-4xl  sm:text-8xl font-potta  pb-2 txt-s uppercase stroke-2">
           Meow wif
           </h1>
           <p className=" font-inter font-normal text-lg sm:text-4xl mt-2 text-white">

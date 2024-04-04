@@ -21,7 +21,7 @@ function Navbar() {
                 className="h-[40px] sm:h-[70px] w-auto "
                 alt=""
               />
-              <h1 className="text-center text-[#fff] text-base  sm:text-lg font-potta  pb-2 txt-s uppercase">
+              <h1 className="text-center text-[#fff] text-base  sm:text-lg font-potta  pb-2 txt-s uppercase stroke-1">
                 {" "}
                 Meow wif
               </h1>
