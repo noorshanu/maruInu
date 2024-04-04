@@ -4,6 +4,7 @@ function Roadmap() {
   return (
     <section className="relative z-10 bg-[#150b2a] py-8">
        <img src="images/asset1.webp" alt="" className=" absolute right-[-20%] h-[400px] top-0" />
+       <img src="images/asset1.webp" alt="" className=" absolute left-[-20%] h-[300px] bottom-0 rotate-180" />
       <div className="container-wrapper mb-14">
         <Title className="text-center text-[#fff] mb-10 py-8 text-2xl sm:text-[45px] txt-s font-inter font-bold uppercase">
           Meow wif STORY
@@ -46,7 +47,7 @@ MEOW WIF starts mining, turns trash <br /> into treasure.
          </div>
         </div>
 
-        <div className="flex justify-between flex-col sm:flex-row gap-5 mt-4 sm:mt-14 sm:px-0 px-4">
+        <div className="flex justify-between flex-col sm:flex-row gap-5 mt-4 sm:mt-14 sm:px-0 px-4 z-30 relative">
           <img
             src="images/img5.webp"
             alt=""
