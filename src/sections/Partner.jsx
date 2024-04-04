@@ -1,18 +1,17 @@
 import React from "react";
+import Title from "components/Title";
 
 function Partner() {
   return (
     <section className=" my-8">
       <div className=" container-wrapper text-center block relative z-10 bg-about rounded-3xl py-8 px-12">
 
-        <div className=" py-3" >
+        <div className=" " >
             
-        <h2 className="font-sushi-one text-5xl my-2 text-[#ffffff] text-center">
-          Our Partners
-        </h2>
+        <Title className="text-center text-[#000] mb-10 py-8 text-2xl sm:text-[45px] txt-s font-inter font-bold">Our Partners</Title>
 
         </div>
-        <div className=" grid grid-cols-2 sm:grid-cols-4 items-center gap-3  rounded-2xl py-4 px-6">
+        <div className=" grid grid-cols-2 sm:grid-cols-4 items-center gap-3  rounded-2xl py-2 px-6">
             <img src="part/bsc.svg" alt="" className=" w-[180px] h-auto " />
           
             <img src="part/img2.png" alt="" className=" w-[180px] h-auto " />
