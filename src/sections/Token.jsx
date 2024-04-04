@@ -4,16 +4,16 @@ import Title from "components/Title";
 
 function Token() {
   return (
-    <section className="relative z-10 bg-story py-4">
+    <section className="relative z-10 bg-story py-8">
       {/* <img src="images/asset1.webp" alt="" className=" absolute left-[-25%] h-[120px] sm:h-[400px] top-0" /> */}
       <img src="images/asset1.webp" alt="" className=" absolute right-[-25%] h-[120px] sm:h-[350px] bottom-0 rotate-180" />
-      <img src="images/paw.png" alt="" className=" absolute right-0 left-[18%]  top-0" />
+      <img src="images/paw.png" alt="" className=" absolute right-0 left-0 sm:left-[18%] top-8  sm:top-0" />
       {/* <img src="images/coin2.png" alt="" className=" absolute bottom-[1%] right-[6%] floating h-[120px] sm:h-auto" /> */}
       <img src="images/coin1.png" alt="" className=" absolute bottom-0 left-[5%] floating h-[120px] sm:h-auto" />
    
 
       <div className="container-wrapper mb-14">
-        <Title className="text-center text-[#fff] mb-10 pt-8 text-2xl sm:text-[45px] txt-s font-inter font-bold uppercase relative z-30"> TOKERNOMY</Title>
+        {/* <Title className="text-center text-[#fff] mb-10 pt-8 text-2xl sm:text-[45px] txt-s font-inter font-bold uppercase relative z-30"> TOKERNOMY</Title> */}
 
         {/* <img src="/images/roadmap.png" className="w-full" alt="" /> */}
 
@@ -23,14 +23,14 @@ function Token() {
 
             <div>
               <a href="https://phantom.app/" target="_blank" className="howbuy justify-center">
-                <p className=" text-center font-bold text-xl text-white">DOWNLOAD AND INSTALL PHANTOM</p>
+                <p className=" text-center font-bold text-base sm:text-xl text-white">DOWNLOAD AND INSTALL PHANTOM</p>
               </a>
               <a href="#" className="howbuy justify-center">
-                <p className=" text-center font-bold text-xl text-white">PURCHASE SOME SOLANA</p>
+                <p className=" text-center font-bold text-base sm:text-xl text-white">PURCHASE SOME SOLANA</p>
               </a>
 
               <a href="#" className="howbuy justify-center">
-                <p className=" text-center font-bold text-xl text-white">BUY $MEOWWIF ON PINKSALE</p>
+                <p className=" text-center font-bold text-base sm:text-xl text-white">BUY $MEOWWIF ON PINKSALE</p>
               </a>
             </div>
           </div>
