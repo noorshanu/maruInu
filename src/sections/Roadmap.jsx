@@ -13,7 +13,10 @@ function Roadmap() {
         {/* <img src="/images/roadmap.png" className="w-full" alt="" /> */}
 
         <div className="flex justify-between flex-col sm:flex-row gap-2 sm:px-0 px-4">
-        <img src="images/img1.jpg" alt="" className="w-auto h-[300px] rounded-xl mt-0 sm:-mt-[5%] " />
+    <div>
+    <img src="images/img1.jpg" alt="" className="w-auto h-[300px] rounded-xl mt-0 sm:-mt-[5%] " />
+    <p className=" pt-1  font-bold max-w-sm">2013 James Howell trashed Bitcoin, <br /> saw no worth</p>
+    </div>
         <img src="images/img1.webp" alt="" className="w-auto h-[300px] rounded-xl" />
         <img src="images/img3.webp" alt="" className="w-auto h-[300px] rounded-xl mt-0 sm:-mt-[5%] " />
 
