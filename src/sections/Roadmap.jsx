@@ -2,9 +2,9 @@ import Title from "components/Title";
 
 function Roadmap() {
   return (
-    <section className="relative z-10 bg-story py-8">
+    <section className="relative z-10 bg-[#150b2a] py-8">
       <div className="container-wrapper mb-14">
-        <Title className="text-center text-[#000] mb-10 py-8 text-2xl sm:text-[45px] txt-s font-inter font-bold uppercase">
+        <Title className="text-center text-[#fff] mb-10 py-8 text-2xl sm:text-[45px] txt-s font-inter font-bold uppercase">
           Meow wif STORY
         </Title>
 
@@ -17,7 +17,7 @@ function Roadmap() {
               alt=""
               className="w-auto h-[300px] rounded-xl "
             />
-            <p className=" pt-1  font-bold max-w-sm">
+            <p className=" pt-1  font-bold max-w-sm text-white">
               2013 James Howell trashed Bitcoin, <br /> saw no worth
             </p>
           </div>
@@ -28,7 +28,7 @@ function Roadmap() {
               className="w-auto h-[300px] rounded-xl"
             />
 
-            <p className=" pt-1  font-bold max-w-sm">
+            <p className=" pt-1  font-bold max-w-sm text-white">
               MEOW WIF sniffs out gold in garbage.
             </p>
           </div>
@@ -39,7 +39,7 @@ function Roadmap() {
             className="w-auto h-[300px] rounded-xl  "
           />
 
-<p className=" pt-1  font-bold max-w-sm">
+<p className=" pt-1  font-bold max-w-sm text-white">
 MEOW WIF starts mining, turns trash <br /> into treasure.
             </p>
          </div>
@@ -53,9 +53,9 @@ MEOW WIF starts mining, turns trash <br /> into treasure.
           />
 
           <img
-            src="images/bag.webp"
+            src="images/bag.png"
             alt=""
-            className="w-auto h-[300px] rounded-xl"
+            className="w-auto h-[300px] rounded-xl bg-[#02a6cc] p-2"
           />
           <img
             src="images/img6.webp"
