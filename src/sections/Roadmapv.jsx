@@ -31,7 +31,7 @@ function Roadmapv() {
 
                  <p className=" text-lg uppercase py-1">FAIRLAUNCH</p>
 
-                 <p className=" text-lg uppercase py-1">PCS LISTING</p>
+                 <p className=" text-lg uppercase py-1">Raydium LISTING</p>
 
                  <p className=" text-lg uppercase py-1">CMC LISTING</p>
 
@@ -50,7 +50,7 @@ function Roadmapv() {
                  <p className=" text-lg uppercase py-1">StrAtegic Partnership</p>
                  <p className=" text-lg uppercase py-1">CEX Listing</p>
 
-                 <p className=" text-lg uppercase py-1">maru mining launch</p>
+                 <p className=" text-lg uppercase py-1">Meow Wif mining launch</p>
             </div>
 
             <div className=" bg-white rounded-3xl py-4 px-6 w-[300px] mx-auto shadow-2xl">
