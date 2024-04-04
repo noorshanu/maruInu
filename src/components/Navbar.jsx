@@ -64,13 +64,14 @@ function Navbar() {
             >
               Roadmap
             </Link>
-            <Link
-              to="roadmap"
+            <a
+              href="https://meow-wif.gitbook.io/meow-wif/"
+              target="_blank"
               onClick={() => setSidebarOpen(false)}
               className="cursor-pointer text-sm xl:text-base"
             >
             Whitepaper
-            </Link>
+            </a>
           </div>
 
           <div>
