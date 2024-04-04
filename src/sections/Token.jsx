@@ -5,10 +5,12 @@ import Title from "components/Title";
 function Token() {
   return (
     <section className="relative z-10 bg-story py-4">
+      <img src="images/asset1.webp" alt="" className=" absolute left-[-20%] h-[400px] top-0" />
+      <img src="images/asset1.webp" alt="" className=" absolute right-[-20%] h-[400px] top-0" />
    
 
       <div className="container-wrapper mb-14">
-        <Title className="text-center text-[#000] mb-10 pt-8 text-2xl sm:text-[45px] txt-s font-inter font-bold uppercase">Meow wif TOKERNOMY</Title>
+        <Title className="text-center text-[#fff] mb-10 pt-8 text-2xl sm:text-[45px] txt-s font-inter font-bold uppercase"> TOKERNOMY</Title>
 
         {/* <img src="/images/roadmap.png" className="w-full" alt="" /> */}
 
