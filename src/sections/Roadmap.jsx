@@ -21,7 +21,7 @@ function Roadmap() {
         {/* <img src="/images/roadmap.png" className="w-full" alt="" /> */}
 
         <div className="flex justify-between flex-col sm:flex-row gap-2 sm:px-0 px-4 relative z-30">
-          <div className=" mt-0 sm:-mt-[5%]">
+          <div className=" ]">
             <img
               src="images/img1.jpg"
               alt=""
@@ -42,7 +42,7 @@ function Roadmap() {
               MEOW WIF sniffs out gold in garbage.
             </p>
           </div>
-          <div className="mt-0 sm:-mt-[5%]">
+          <div className="">
             <img
               src="images/img3.webp"
               alt=""
@@ -56,7 +56,7 @@ function Roadmap() {
         </div>
 
         <div className="flex justify-between flex-col sm:flex-row gap-5 mt-4 sm:mt-14 sm:px-0 px-4 z-30 relative">
-          <div className="mt-0 sm:mt-[5%]">
+          <div className="">
             <img
               src="images/img5.webp"
               alt=""
