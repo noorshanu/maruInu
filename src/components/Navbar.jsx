@@ -72,6 +72,14 @@ function Navbar() {
             >
             Whitepaper
             </a>
+            <a
+              href="https://coinsult.net/projects/meowwif/"
+              target="_blank"
+              onClick={() => setSidebarOpen(false)}
+              className="cursor-pointer text-sm xl:text-base"
+            >
+             Audit 
+            </a>
           </div>
 
           <div>
