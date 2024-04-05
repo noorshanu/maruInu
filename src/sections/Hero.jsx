@@ -34,7 +34,7 @@ function Hero() {
             </a>
           </div>
           <div className=" py-4">
-            <p className=" text-center text-xs sm:text-xl font-semibold text-white text-s">Contract : 0x604c9d43e804f5d7e19e0f58e9352ee839cb8f2d</p>
+            <p className=" text-center text-xs sm:text-xl font-semibold text-white text-s">Contract : DFTbp7ErNEKUuQFv8dQu8aRSXjzmijYxbZ19rvwJwPgw</p>
           </div>
         </div>
         <div className="hidden sm:flex justify-center  items-center mt-0 sm:mt-5 relative z-20 ">
