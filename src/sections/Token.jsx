@@ -18,7 +18,7 @@ function Token() {
         {/* <img src="/images/roadmap.png" className="w-full" alt="" /> */}
 
         <div className="flex justify-between items-center flex-col sm:flex-row gap-2 sm:px-0 px-4 relative z-30">
-          <div className=" w-full">
+          <div className=" max-w-lg w-full">
             <h1 className="text-2xl font-bold text-white py-4 text-center">How To Buy</h1>
 
             <div>
