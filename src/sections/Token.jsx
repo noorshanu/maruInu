@@ -25,11 +25,11 @@ function Token() {
               <a href="https://phantom.app/" target="_blank" className="howbuy justify-center">
                 <p className=" text-center font-bold text-base sm:text-xl text-white">DOWNLOAD AND INSTALL PHANTOM</p>
               </a>
-              <a href="#" className="howbuy justify-center">
+              <a href="https://raydium.io/" target="_blank" className="howbuy justify-center">
                 <p className=" text-center font-bold text-base sm:text-xl text-white">PURCHASE SOME SOLANA</p>
               </a>
 
-              <a href="#" className="howbuy justify-center">
+              <a href="https://www.pinksale.finance/" target="_blank" className="howbuy justify-center">
                 <p className=" text-center font-bold text-base sm:text-xl text-white">BUY $MEOWWIF ON PINKSALE</p>
               </a>
             </div>
