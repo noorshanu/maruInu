@@ -7,7 +7,7 @@ function Token() {
     <section className="relative z-10 bg-story py-8">
       {/* <img src="images/asset1.webp" alt="" className=" absolute left-[-25%] h-[120px] sm:h-[400px] top-0" /> */}
       <img src="images/asset1.webp" alt="" className=" absolute right-[-25%] h-[120px] sm:h-[350px] bottom-0 rotate-180" />
-      <img src="images/paw.png" alt="" className=" absolute right-0 left-0 sm:left-[18%] top-8  sm:top-0" />
+      <img src="images/paw.png" alt="" className=" absolute right-0 left-0 sm:left-[18%] top-8  sm:top-0 opacity-40" />
       {/* <img src="images/coin2.png" alt="" className=" absolute bottom-[1%] right-[6%] floating h-[120px] sm:h-auto" /> */}
       <img src="images/coin1.png" alt="" className=" absolute bottom-0 left-[5%] floating h-[120px] sm:h-auto" />
    
@@ -34,7 +34,7 @@ function Token() {
               </a>
             </div>
           </div>
-        <img src="images/token2.png" alt="" className=" mx-auto p-0 sm:p-4 h-auto  sm:h-[500px] sm:mx-auto pl-6" />
+        <img src="images/token2.png" alt="" className=" mx-auto p-0 sm:p-4 h-auto  sm:h-[500px] sm:mx-auto " />
 
         
         </div>
