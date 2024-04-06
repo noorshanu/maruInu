@@ -15,9 +15,13 @@ function Partner() {
             <img src="part/bsc.svg" alt="" className=" w-[180px] h-auto " />
           
             <img src="part/img2.png" alt="" className=" w-[180px] h-auto " />
-            <img src="images/pink.png" alt="" className=" w-[180px] h-auto   " />
-            <img src="part/img12.png" alt="" className=" w-[180px] h-auto " />
-            <img src="part/img14.png" alt="" className=" w-[180px] h-auto invert  " />
+            <a href="https://www.pinksale.finance/" target="_blank">  <img src="images/pink.png" alt="" className=" w-[180px] h-auto   " /></a>
+          
+           <a href="https://www.dextools.io/app/en/solana/socials-recently-updated" target="_blank">     <img src="part/img12.png" alt="" className=" w-[180px] h-auto " /></a>
+       <a href="https://www.dexview.com/" target="_blank">
+       <img src="part/img14.png" alt="" className=" w-[180px] h-auto invert  " />
+       </a>
+          
             <img src="part/img11.png" alt="" className=" w-[180px] h-auto " />
 
           
