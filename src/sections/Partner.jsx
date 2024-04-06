@@ -15,7 +15,12 @@ function Partner() {
             <img src="part/bsc.svg" alt="" className=" w-[180px] h-auto " />
           
             <img src="part/img2.png" alt="" className=" w-[180px] h-auto " />
-            <img src="part/img3.png" alt="" className=" w-[180px] h-auto " />
+            <img src="images/pink.png" alt="" className=" w-[180px] h-auto   " />
+            <img src="part/img12.png" alt="" className=" w-[180px] h-auto " />
+            <img src="part/img14.png" alt="" className=" w-[180px] h-auto invert  " />
+            <img src="part/img11.png" alt="" className=" w-[180px] h-auto " />
+
+          
             <img src="part/img4.png" alt="" className=" w-[180px] h-auto " />
             <img src="part/img5.png" alt="" className=" w-[180px] h-auto " />
             <img src="part/img6.png" alt="" className=" w-[180px] h-auto " />
@@ -23,12 +28,12 @@ function Partner() {
             <img src="part/img8.png" alt="" className=" w-[180px] h-auto " />
             <img src="part/img9.png" alt="" className=" w-[180px] h-auto " />
             <img src="part/img10.png" alt="" className=" w-[180px] h-auto " />
-            <img src="part/img11.png" alt="" className=" w-[180px] h-auto " />
-            <img src="part/img12.png" alt="" className=" w-[180px] h-auto invert" />
+          
+           
             <img src="part/raid.svg" alt="" className=" w-[180px] h-auto " />
-            <img src="part/img14.png" alt="" className=" w-[180px] h-auto  invert" />
-            <img src="part/img15.png" alt="" className=" w-[180px] h-auto  invert" />
-            <img src="part/img16.png" alt="" className=" w-[180px] h-auto  invert" />
+         
+            <img src="part/img3.png" alt="" className=" w-[180px] h-auto " />
+            <img src="part/img16.png" alt="" className=" w-[180px] h-auto  invert " />
         </div>
       </div>
     </section>
