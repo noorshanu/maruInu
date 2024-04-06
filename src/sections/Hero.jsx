@@ -14,8 +14,8 @@ function Hero() {
     <section className="relative z-10 overflow-hidden bg-hero  ">
       <div className=" overlay pt-1 ">
       <div className="container-wrapper lg:h-[100vh]  pt-2 pb-0 lg:pt-0 lg:pb-0 ">
-      <img src="images/star.png" alt="" className=" absolute left-[5%] top-[40%] floating" />
-      <img src="images/star2.png" alt="" className=" absolute right-[5%] top-[40%] floating" />
+      <img src="images/star.png" alt="" className=" absolute left-[5%] top-[50%] sm:top-[40%] floating" />
+      <img src="images/star2.png" alt="" className=" absolute right-[5%] top-[50%] sm:top-[40%] floating" />
 
         <div className=" text-center mt-4 sm:mt-10">
           <h1 className="text-center text-[#fff] text-4xl  sm:text-8xl font-potta  pb-2 txt-s uppercase stroke-2">
