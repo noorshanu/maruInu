@@ -26,19 +26,20 @@ function Hero() {
           </p>
 
           <div className=" mt-4 flex flex-col sm:flex-row items-center gap-4 justify-center">
-            <a href="https://meow-wif.gitbook.io/meow-wif/" target="_blank" className=" btn-2 hover:bg-black  text-white hover:text-white font-inter text-xl sm:text-2xl rounded-lg px-12 pt-2 pb-3 ">
+            <a href="https://meow-wif.gitbook.io/meow-wif/" target="_blank" className=" transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110  duration-300 btn-2 hover:bg-black  text-white hover:text-white font-inter text-xl sm:text-2xl rounded-lg px-12 pt-2 pb-3 ">
             Whitepaper
             </a>
-            <a href="#" target="_blank" className=" btn-1 hover:bg-black  text-white hover:text-white font-inter text-xl sm:text-2xl rounded-lg px-12 pt-2 pb-3 ">
+            <a href="#" target="_blank" className=" btn-1 hover:bg-black  text-white hover:text-white font-inter text-xl sm:text-2xl rounded-lg px-12 pt-2 pb-3 transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110  duration-300 ">
               Buy Now
             </a>
-            <a href="https://coinsult.net/projects/meowwif/" target="_blank" className=" btn-1 hover:bg-black  text-white hover:text-white font-inter text-xl sm:text-2xl rounded-lg px-12 pt-2 pb-3 ">
-              Audit
-            </a>
+          
           </div>
           <div className=" py-4">
             <p className=" text-center text-xs sm:text-xl font-semibold text-white text-s">Contract : DFTbp7ErNEKUuQFv8dQu8aRSXjzmijYxbZ19rvwJwPgw</p>
           </div>
+          <a href="https://coinsult.net/projects/meowwif/" target="_blank" className=" transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110  duration-300 flex justify-center items-center gap-2 text-white hover:text-white font-inter text-xl sm:text-2xl">
+            Audited by <img src="images/coinsult.png" alt=""  className=" h-[30px]"/>
+          </a>
         </div>
         <div className="hidden sm:flex justify-center  items-center mt-0 sm:mt-5 relative z-20 ">
 
