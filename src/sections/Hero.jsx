@@ -26,11 +26,14 @@ function Hero() {
           </p>
 
           <div className=" mt-4 flex flex-col sm:flex-row items-center gap-4 justify-center">
-            <a href="https://meow-wif.gitbook.io/meow-wif/" target="_blank" className=" btn-2 hover:bg-black  text-white hover:text-white font-inter text-xl sm:text-3xl rounded-lg px-14 pt-2 pb-3 ">
+            <a href="https://meow-wif.gitbook.io/meow-wif/" target="_blank" className=" btn-2 hover:bg-black  text-white hover:text-white font-inter text-xl sm:text-2xl rounded-lg px-12 pt-2 pb-3 ">
             Whitepaper
             </a>
-            <a href="#" target="_blank" className=" btn-1 hover:bg-black  text-white hover:text-white font-inter text-xl sm:text-3xl rounded-lg px-14 pt-2 pb-3 ">
+            <a href="#" target="_blank" className=" btn-1 hover:bg-black  text-white hover:text-white font-inter text-xl sm:text-2xl rounded-lg px-12 pt-2 pb-3 ">
               Buy Now
+            </a>
+            <a href="https://coinsult.net/projects/meowwif/" target="_blank" className=" btn-1 hover:bg-black  text-white hover:text-white font-inter text-xl sm:text-2xl rounded-lg px-12 pt-2 pb-3 ">
+              Audit
             </a>
           </div>
           <div className=" py-4">
