@@ -12,10 +12,10 @@ function Partner() {
         </div>
         <div className=" grid grid-cols-2 sm:grid-cols-4 items-center gap-3  rounded-2xl py-2 px-6">
           <img src="part/bsc.svg" alt="" className=" w-[180px] h-auto " />
-<a href="https://coinsult.net/projects/meowwif/" target="_blank">
-<img src="part/img2.png" alt="" className=" w-[180px] h-auto " />
-</a>
-          
+          <a href="https://coinsult.net/projects/meowwif/" target="_blank">
+            <img src="part/img2.png" alt="" className=" w-[180px] h-auto " />
+          </a>
+
           <a href="https://www.pinksale.finance/" target="_blank">
             {" "}
             <img

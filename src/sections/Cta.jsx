@@ -6,15 +6,45 @@ function Cta() {
       <div className="container-wrapper text-center block relative z-10 bg-about rounded-3xl py-8 px-3">
         <div>
           <h1 className=" txt-s font-inter text-white font-bold text-2xl uppercase sm:text-[45px]">
-            JOIN US Meow wif
+            Our Product
           </h1>
-          <p className=" font-inter text-center text-lg sm:text-[30px] font-normal max-w-5xl mx-auto lh-1_8 pt-6 text-white mb-3">
-          Now, with Bitcoin ETF hype and halving buzz, dat trash turned to treasure, valued in da millions. Top 20 riches await MEOW WIF. Lesson learned: Never underestimate crypto magic.
-          </p>
+          <div className=" flex items-center gap-8 justify-center flex-col sm:flex-row mt-4">
+            <div className="flex flex-col flex-wrap justify-center items-center overflow-hidden rounded-xl border border-[#fff] w-[300px] h-[300px]">
+              <div>
+                <p className="font-ninja text-white font-inter font-bold txt-s">
+                  Explore the Nft Wif
+                </p>
+              </div>
 
-          <a href="#" target="_blank" className=" btn-1 hover:bg-black  text-white hover:text-white font-inter text-xl sm:text-3xl rounded-lg px-14 pt-2 pb-3 ">
-              Buy Now
-            </a>
+              <div className="w-[250px] mb-3  border-none rounded-2xl overflow-hidden">
+                <img src="images/img7.webp" alt="" className="" />
+              </div>
+            </div>
+
+            <div className="flex flex-col  justify-center items-center overflow-hidden rounded-xl border border-[#fff] w-[300px] h-[300px]">
+              <div>
+              <p className="font-ninja text-white font-inter font-bold txt-s">Telgram Bot</p>
+              </div>
+
+              <div className="w-[250px] mb-3 border-none rounded-2xl overflow-hidden">
+                <img src="images/img6.webp" alt="" className="" />
+              </div>
+
+            
+            </div>
+
+            <div className="flex flex-col  justify-center items-center overflow-hidden rounded-xl border border-[#fff] w-[300px] h-[300px]">
+              <div>
+              <p className="font-ninja text-white font-inter font-bold txt-s">Meow Staking</p>
+              </div>
+
+              <div className="w-[250px] mb-3 border-none rounded-2xl overflow-hidden">
+                <img src="images/img3.webp" alt="" className="" />
+              </div>
+
+            
+            </div>
+          </div>
         </div>
       </div>
     </section>
