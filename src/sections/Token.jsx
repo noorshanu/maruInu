@@ -34,7 +34,7 @@ function Token() {
               </a>
             </div>
           </div>
-        <img src="images/token2.png" alt="" className=" mx-auto p-0 sm:p-4 h-auto  sm:h-[500px] sm:mx-auto" />
+        <img src="images/token2.png" alt="" className=" mx-auto p-0 sm:p-4 h-auto  sm:h-[500px] sm:mx-auto pl-6" />
 
         
         </div>
