@@ -14,7 +14,7 @@ function Roadmap() {
         className=" absolute left-[-20%] h-[120px] sm:h-[250px] bottom-0 rotate-180"
       />
       <div className="container-wrapper mb-14">
-        <Title className="text-center text-[#fff] mb-10 py-8 text-2xl sm:text-[45px] txt-s font-inter font-bold uppercase">
+        <Title className="text-center text-[#fff] mb-10 py-8 text-2xl sm:text-[45px] txt-s font-inter font-bold uppercase relative z-40">
           Meow wif STORY
         </Title>
 
