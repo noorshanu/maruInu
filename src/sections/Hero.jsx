@@ -29,7 +29,7 @@ function Hero() {
             <a href="https://meow-wif.gitbook.io/meow-wif/" target="_blank" className=" transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110  duration-300 btn-2 hover:bg-black  text-white hover:text-white font-inter text-xl sm:text-2xl rounded-lg px-12 pt-2 pb-3 ">
             Whitepaper
             </a>
-            <a href="#" target="_blank" className=" btn-1 hover:bg-black  text-white hover:text-white font-inter text-xl sm:text-2xl rounded-lg px-12 pt-2 pb-3 transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110  duration-300 ">
+            <a href="https://www.pinksale.finance/solana/launchpad/2vKy9Xm76vceZTFL19YAHJMnfV7hYp2ud4HceB1XxMSx" target="_blank" className=" btn-1 hover:bg-black  text-white hover:text-white font-inter text-xl sm:text-2xl rounded-lg px-12 pt-2 pb-3 transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110  duration-300 ">
               Buy Now
             </a>
           
@@ -37,9 +37,12 @@ function Hero() {
           <div className=" py-4">
             <p className=" text-center text-xs sm:text-xl font-semibold text-white text-s">Contract : DFTbp7ErNEKUuQFv8dQu8aRSXjzmijYxbZ19rvwJwPgw</p>
           </div>
-          <a href="https://coinsult.net/projects/meowwif/" target="_blank" className=" transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110  duration-300 flex justify-center items-center gap-2 text-white hover:text-white font-inter text-xl sm:text-2xl">
+          <div className=" flex  justify-center flex-col sm:flex-row  gap-6 pb-4">
+            <a href="https://coinsult.net/projects/meowwif/" target="_blank" className=" transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110  duration-300 flex justify-center items-center gap-2 text-white hover:text-white font-inter text-xl sm:text-2xl">
             Audited by <img src="images/coinsult.png" alt=""  className=" h-[30px]"/>
           </a>
+          <a href="https://pinksale.notion.site/MeowWif-KYC-Verification-4b298c64923741cdbf2b3499edc3dd79"  className=" transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110  duration-300 flex justify-center items-center gap-2 text-white hover:text-white font-inter text-xl sm:text-2xl">KYC by <img src="images/pink.png" alt="" className=" h-[50px]" /></a>
+          </div>
         </div>
         <div className="hidden sm:flex justify-center  items-center mt-0 sm:mt-5 relative z-20 ">
 
