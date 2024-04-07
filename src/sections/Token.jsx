@@ -29,7 +29,7 @@ function Token() {
                 <p className=" text-center font-bold text-base sm:text-xl text-white">PURCHASE SOME SOLANA</p>
               </a>
 
-              <a href="https://www.pinksale.finance/" target="_blank" className="howbuy justify-center">
+              <a href="https://www.pinksale.finance/solana/launchpad/2vKy9Xm76vceZTFL19YAHJMnfV7hYp2ud4HceB1XxMSx" target="_blank" className="howbuy justify-center">
                 <p className=" text-center font-bold text-base sm:text-xl text-white">BUY $MEOWWIF ON PINKSALE</p>
               </a>
             </div>
