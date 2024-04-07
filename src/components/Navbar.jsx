@@ -35,7 +35,7 @@ function Navbar() {
             </button>
           </div>
 
-          <div className="items-center justify-between  text-base font-medium text-white hidden lg:flex gap-4 w-full">
+          <div className="items-center justify-between  text-base font-medium text-white hidden lg:flex gap-4 w-full ml-[-7rem]">
        
             <a href="#about" className="cursor-pointer text-sm xl:text-base">
               About
@@ -83,7 +83,7 @@ function Navbar() {
           </div>
 
           <div>
-          <div className=" flex justify-center gap-5 ">
+          <div className=" flex justify-center gap-5  w-full">
           <a
             href="https://t.me/Meowwif"
             target="_blank"
