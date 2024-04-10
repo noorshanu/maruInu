@@ -25,10 +25,7 @@ function Partner() {
             />
           </a>
 
-          <a
-            href="https://www.dextools.io/app/en/solana/socials-recently-updated"
-            target="_blank"
-          >
+       
             {" "}
             <img src="part/img12.png" alt="" className=" w-[180px] h-auto " />
           </a>
