@@ -27,8 +27,7 @@ function Partner() {
 
        
             {" "}
-            <img src="part/img12.png" alt="" className=" w-[180px] h-auto " />
-          </a>
+       
           <a href="https://www.dexview.com/" target="_blank">
             <img
               src="part/img14.png"
