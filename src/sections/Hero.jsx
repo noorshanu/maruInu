@@ -29,8 +29,11 @@ function Hero() {
             <a href="https://meow-wif.gitbook.io/meow-wif/" target="_blank" className=" transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110  duration-300 btn-2 hover:bg-black  text-white hover:text-white font-inter text-xl sm:text-2xl rounded-lg px-12 pt-2 pb-3 ">
             Whitepaper
             </a>
-            <a href="https://www.pinksale.finance/solana/launchpad/2vKy9Xm76vceZTFL19YAHJMnfV7hYp2ud4HceB1XxMSx" target="_blank" className=" btn-1 hover:bg-black  text-white hover:text-white font-inter text-xl sm:text-2xl rounded-lg px-12 pt-2 pb-3 transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110  duration-300 ">
+            <a href="https://raydium.io/swap/?inputCurrency=sol&outputCurrency=DFTbp7ErNEKUuQFv8dQu8aRSXjzmijYxbZ19rvwJwPgw&fixed=in" target="_blank" className=" btn-1 hover:bg-black  text-white hover:text-white font-inter text-xl sm:text-2xl rounded-lg px-12 pt-2 pb-3 transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110  duration-300 ">
               Buy Now
+            </a>
+            <a href="https://www.dextools.io/app/en/solana/pair-explorer/7iViKiLuciK9bAWoW8Tpcj34JKN1tRyKRauQoSP1zsKb?t=1713157926583" target="_blank" className=" btn-1 hover:bg-black  text-white hover:text-white font-inter text-xl sm:text-2xl rounded-lg px-12 pt-2 pb-3 transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110  duration-300 ">
+              DexTools
             </a>
           
           </div>
